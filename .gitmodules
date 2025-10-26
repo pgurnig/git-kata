@@ -4,3 +4,6 @@
 [submodule "02-the-misnamed-commit"]
 	path = 02-the-misnamed-commit
 	url = git@github.com:pgurnig/git-kata-02-the-misnamed-commit.git
+[submodule "03-the-unwanted-file"]
+	path = 03-the-unwanted-file
+	url = git@github.com:pgurnig/git-kata-03-the-unwanted-file.git
