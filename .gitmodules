@@ -19,3 +19,6 @@
 [submodule "07-the-deleted-work"]
 	path = 07-the-deleted-work
 	url = git@github.com:pgurnig/git-kata-07-the-deleted-work.git
+[submodule "08-the-accidental-push"]
+	path = 08-the-accidental-push
+	url = git@github.com:pgurnig/git-kata-08-the-accidental-push.git
