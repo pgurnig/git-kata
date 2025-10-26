@@ -13,3 +13,6 @@
 [submodule "05-the-branch-that-got-away"]
 	path = 05-the-branch-that-got-away
 	url = git@github.com:pgurnig/git-kata-05-the-branch-that-got-away.git
+[submodule "06-the-diverged-branch"]
+	path = 06-the-diverged-branch
+	url = git@github.com:pgurnig/git-kata-06-the-diverged-branch.git
