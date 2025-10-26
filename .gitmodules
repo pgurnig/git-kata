@@ -10,3 +10,6 @@
 [submodule "04-the-missing-changes"]
 	path = 04-the-missing-changes
 	url = git@github.com:pgurnig/git-kata-04-the-missing-changes.git
+[submodule "05-the-branch-that-got-away"]
+	path = 05-the-branch-that-got-away
+	url = git@github.com:pgurnig/git-kata-05-the-branch-that-got-away.git
