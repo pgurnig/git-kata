@@ -16,3 +16,6 @@
 [submodule "06-the-diverged-branch"]
 	path = 06-the-diverged-branch
 	url = git@github.com:pgurnig/git-kata-06-the-diverged-branch.git
+[submodule "07-the-deleted-work"]
+	path = 07-the-deleted-work
+	url = git@github.com:pgurnig/git-kata-07-the-deleted-work.git
