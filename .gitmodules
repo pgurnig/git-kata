@@ -25,3 +25,6 @@
 [submodule "09-the-merge-mayhem"]
 	path = 09-the-merge-mayhem
 	url = git@github.com:pgurnig/git-kata-09-the-merge-mayhem.git
+[submodule "10-the-clean-slate"]
+	path = 10-the-clean-slate
+	url = git@github.com:pgurnig/git-kata-10-the-clean-slate.git
